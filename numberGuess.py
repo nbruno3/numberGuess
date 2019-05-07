@@ -4,6 +4,12 @@ from os import system, name
 import time
 import sys
 
+# A quick game (the first game) I created as I was/am learning Python...
+# Fairly basic but takes advantage of the creation of functions, making calls,
+# And checking user inputs for the correct values.
+
+# I left in a lot of the code I first wrote, but have updated it to make it more concise.
+
 # define our clear function 
 def clearScreen(): 
   
