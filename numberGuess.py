@@ -9,6 +9,11 @@ import sys
 # And checking user inputs for the correct values.
 
 # I left in a lot of the code I first wrote, but have updated it to make it more concise.
+import math
+import random
+from os import system, name
+import time
+import sys
 
 # define our clear function 
 def clearScreen(): 
